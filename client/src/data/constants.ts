@@ -16,21 +16,21 @@ export const storyTimeline = [
     title: "Como Nos Conhecemos",
     description: "Foi em uma tarde de verão, naquele café da esquina. Nossos olhares se cruzaram e soubemos imediatamente que algo especial estava acontecendo. Uma conversa despretensiosa que durou horas, e desde então, não nos separamos mais.",
     date: "15 de Janeiro de 2023",
-    imageUrl: "/images/story-1.jpg",
+    imageUrl: "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=800",
     imageAlt: "Casal no café"
   },
   {
     title: "Nosso Primeiro Encontro",
     description: "Escolhemos aquela praia tranquila para nosso primeiro encontro oficial. Caminhamos de mãos dadas pela areia, conversando sobre sonhos e planos. O pôr do sol parecia ter sido feito especialmente para nós, pintando o céu com cores que jamais esqueceremos.",
     date: "22 de Janeiro de 2023",
-    imageUrl: "/images/story-2.jpg",
+    imageUrl: "https://images.pexels.com/photos/2253879/pexels-photo-2253879.jpeg?auto=compress&cs=tinysrgb&w=800",
     imageAlt: "Passeio na praia"
   },
   {
     title: "Nosso Momento Especial",
     description: "Aquela viagem à montanha marcou profundamente nossa história. Foi lá, sob um céu estrelado, que prometemos estar sempre juntos, nos bons e maus momentos. A vista do amanhecer foi o cenário perfeito para esse compromisso que fazemos questão de renovar todos os dias.",
     date: "10 de Abril de 2023",
-    imageUrl: "/images/story-3.jpg",
+    imageUrl: "https://images.pexels.com/photos/2990644/pexels-photo-2990644.jpeg?auto=compress&cs=tinysrgb&w=800",
     imageAlt: "Contemplando o pôr do sol na montanha"
   }
 ];
@@ -38,32 +38,32 @@ export const storyTimeline = [
 // Photo gallery
 export const photosGallery = [
   {
-    imageUrl: "/images/couple-1.jpg",
+    imageUrl: "https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg?auto=compress&cs=tinysrgb&w=800",
     caption: "Nosso primeiro jantar romântico",
     date: "Fevereiro 2023"
   },
   {
-    imageUrl: "/images/couple-2.jpg",
+    imageUrl: "https://images.pexels.com/photos/1415131/pexels-photo-1415131.jpeg?auto=compress&cs=tinysrgb&w=800",
     caption: "Passeio no parque",
     date: "Março 2023"
   },
   {
-    imageUrl: "/images/couple-3.jpg",
+    imageUrl: "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=800",
     caption: "Férias na praia",
     date: "Julho 2023"
   },
   {
-    imageUrl: "/images/couple-4.jpg",
+    imageUrl: "https://images.pexels.com/photos/3014856/pexels-photo-3014856.jpeg?auto=compress&cs=tinysrgb&w=800",
     caption: "Nosso aniversário de namoro",
     date: "Janeiro 2024"
   },
   {
-    imageUrl: "/images/couple-5.jpg",
+    imageUrl: "https://images.pexels.com/photos/1730877/pexels-photo-1730877.jpeg?auto=compress&cs=tinysrgb&w=800",
     caption: "Visita à cidade antiga",
     date: "Abril 2023"
   },
   {
-    imageUrl: "/images/couple-6.jpg",
+    imageUrl: "https://images.pexels.com/photos/4148842/pexels-photo-4148842.jpeg?auto=compress&cs=tinysrgb&w=800",
     caption: "Nosso encontro especial",
     date: "Setembro 2023"
   }
@@ -75,24 +75,24 @@ export const specialMoments = [
     title: "Jantar Surpresa",
     description: "Aquele jantar à luz de velas que preparei especialmente para comemorar seu aniversário. Seu sorriso ao ver a surpresa valeu todo o esforço.",
     date: "Março 2023",
-    imageUrl: "/images/special-1.jpg"
+    imageUrl: "https://images.pexels.com/photos/5031332/pexels-photo-5031332.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
     title: "Viagem Inesquecível",
     description: "Nossa primeira viagem juntos, quando descobrimos o quanto somos compatíveis até mesmo nas menores escolhas. Cada paisagem nos contava uma história.",
     date: "Julho 2023",
-    imageUrl: "/images/special-2.jpg"
+    imageUrl: "https://images.pexels.com/photos/4559491/pexels-photo-4559491.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
     title: "Dançando na Chuva",
     description: "Aquela tarde chuvosa que, em vez de estragar nossos planos, tornou-se uma das memórias mais especiais. Dançamos sem música, apenas sentindo o momento.",
     date: "Outubro 2023",
-    imageUrl: "/images/special-3.jpg"
+    imageUrl: "https://images.pexels.com/photos/3771807/pexels-photo-3771807.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
     title: "Piquenique Surpresa",
     description: "Planejei cada detalhe daquele piquenique, desde a comida até a música. Seu olhar de surpresa ao ver tudo preparado ficará para sempre na minha memória.",
     date: "Abril 2023",
-    imageUrl: "/images/special-4.jpg"
+    imageUrl: "https://images.pexels.com/photos/3771836/pexels-photo-3771836.jpeg?auto=compress&cs=tinysrgb&w=800"
   }
 ];
