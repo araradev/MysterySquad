@@ -16,21 +16,21 @@ export const storyTimeline = [
     title: "Como Nos Conhecemos",
     description: "Foi em uma tarde de verão, naquele café da esquina. Nossos olhares se cruzaram e soubemos imediatamente que algo especial estava acontecendo. Uma conversa despretensiosa que durou horas, e desde então, não nos separamos mais.",
     date: "15 de Janeiro de 2023",
-    imageUrl: "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    imageUrl: "/images/story-1.jpg",
     imageAlt: "Casal no café"
   },
   {
     title: "Nosso Primeiro Encontro",
     description: "Escolhemos aquela praia tranquila para nosso primeiro encontro oficial. Caminhamos de mãos dadas pela areia, conversando sobre sonhos e planos. O pôr do sol parecia ter sido feito especialmente para nós, pintando o céu com cores que jamais esqueceremos.",
     date: "22 de Janeiro de 2023",
-    imageUrl: "https://images.unsplash.com/photo-1516589091380-5d8e87df6999?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    imageUrl: "/images/story-2.jpg",
     imageAlt: "Passeio na praia"
   },
   {
     title: "Nosso Momento Especial",
     description: "Aquela viagem à montanha marcou profundamente nossa história. Foi lá, sob um céu estrelado, que prometemos estar sempre juntos, nos bons e maus momentos. A vista do amanhecer foi o cenário perfeito para esse compromisso que fazemos questão de renovar todos os dias.",
     date: "10 de Abril de 2023",
-    imageUrl: "https://images.unsplash.com/photo-1522264832053-61ecfb3feada?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    imageUrl: "/images/story-3.jpg",
     imageAlt: "Contemplando o pôr do sol na montanha"
   }
 ];
@@ -75,24 +75,24 @@ export const specialMoments = [
     title: "Jantar Surpresa",
     description: "Aquele jantar à luz de velas que preparei especialmente para comemorar seu aniversário. Seu sorriso ao ver a surpresa valeu todo o esforço.",
     date: "Março 2023",
-    imageUrl: "https://images.unsplash.com/photo-1537212013133-060fa15ac45d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/special-1.jpg"
   },
   {
     title: "Viagem Inesquecível",
     description: "Nossa primeira viagem juntos, quando descobrimos o quanto somos compatíveis até mesmo nas menores escolhas. Cada paisagem nos contava uma história.",
     date: "Julho 2023",
-    imageUrl: "https://images.unsplash.com/photo-1515549832467-8783363e19b6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/special-2.jpg"
   },
   {
     title: "Dançando na Chuva",
     description: "Aquela tarde chuvosa que, em vez de estragar nossos planos, tornou-se uma das memórias mais especiais. Dançamos sem música, apenas sentindo o momento.",
     date: "Outubro 2023",
-    imageUrl: "https://images.unsplash.com/photo-1551173641-dbaebc4f0ecd?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/special-3.jpg"
   },
   {
     title: "Piquenique Surpresa",
     description: "Planejei cada detalhe daquele piquenique, desde a comida até a música. Seu olhar de surpresa ao ver tudo preparado ficará para sempre na minha memória.",
     date: "Abril 2023",
-    imageUrl: "https://images.unsplash.com/photo-1519211862640-7f671e4a2733?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/special-4.jpg"
   }
 ];
