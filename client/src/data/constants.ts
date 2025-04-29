@@ -38,32 +38,32 @@ export const storyTimeline = [
 // Photo gallery
 export const photosGallery = [
   {
-    imageUrl: "https://images.unsplash.com/photo-1515821036738-0a894a2863c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/couple-1.jpg",
     caption: "Nosso primeiro jantar romântico",
     date: "Fevereiro 2023"
   },
   {
-    imageUrl: "https://images.unsplash.com/photo-1529348915581-73628f0cf212?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/couple-2.jpg",
     caption: "Passeio no parque",
     date: "Março 2023"
   },
   {
-    imageUrl: "https://images.unsplash.com/photo-1507152832244-10d45c7eda57?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/couple-3.jpg",
     caption: "Férias na praia",
     date: "Julho 2023"
   },
   {
-    imageUrl: "https://images.unsplash.com/photo-1539437829697-1b4ed5aebd19?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/couple-4.jpg",
     caption: "Nosso aniversário de namoro",
     date: "Janeiro 2024"
   },
   {
-    imageUrl: "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/couple-5.jpg",
     caption: "Visita à cidade antiga",
     date: "Abril 2023"
   },
   {
-    imageUrl: "https://images.unsplash.com/photo-1505233542909-c883684867a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/couple-6.jpg",
     caption: "Nosso encontro especial",
     date: "Setembro 2023"
   }
