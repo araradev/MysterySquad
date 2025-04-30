@@ -1,0 +1,11 @@
+{
+    "rewrites": [
+      {
+        "source": "/video/(.*)",
+        "destination": "/video/$1"
+      }
+    ],
+    "staticFiles": {
+      "include": ["video"]
+    }
+  }
