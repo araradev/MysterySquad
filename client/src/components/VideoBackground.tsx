@@ -73,13 +73,6 @@ const VideoBackground = () => {
           >
             {isPlaying ? <Pause size={20} /> : <Play size={20} />}
           </button>
-          <button 
-            className="text-white hover:text-primary transition-colors focus:outline-none"
-            aria-label={isMuted ? "Ativar som" : "Desativar som"}
-            onClick={toggleMute}
-          >
-            {isMuted ? <VolumeX size={20} /> : <Volume2 size={20} />}
-          </button>
         </div>
       </div>
     </>
