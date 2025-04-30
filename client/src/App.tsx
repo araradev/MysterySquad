@@ -19,7 +19,7 @@ function Router() {
 function App() {
   React.useEffect(() => {
     const handleUserInteraction = () => {
-      const BackgroundAudio = new Audio("/video/Amanda.mp3");
+      const BackgroundAudio = new Audio("https://www.dropbox.com/scl/fi/e4fj0s3ry0uwhw5ohetvv/Amanda.mp3?rlkey=sqw16n14hqb15h78qe466hzrx&st=lwgmmnz6&raw=1");
       BackgroundAudio.play().catch((error) => {
         console.warn("Playback failed:", error);
       });
