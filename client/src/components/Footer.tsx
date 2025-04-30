@@ -68,20 +68,6 @@ const Footer = () => {
             <div className="mt-4 flex space-x-3">
               <button 
                 className="p-2 bg-white/10 rounded-full hover:bg-white/20 transition-colors"
-                aria-label="Aumentar tamanho da fonte"
-                onClick={increaseFontSize}
-              >
-                <Expand size={18} />
-              </button>
-              <button 
-                className="p-2 bg-white/10 rounded-full hover:bg-white/20 transition-colors"
-                aria-label="Alternar alto contraste"
-                onClick={toggleContrast}
-              >
-                <CheckSquare size={18} />
-              </button>
-              <button 
-                className="p-2 bg-white/10 rounded-full hover:bg-white/20 transition-colors"
                 aria-label="Voltar ao topo"
                 onClick={scrollToTop}
               >

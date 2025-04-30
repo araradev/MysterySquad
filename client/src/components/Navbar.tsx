@@ -74,18 +74,7 @@ const Navbar = () => {
                 Galeria
               </a>
             </li>
-            <li>
-              <a 
-                href="#momentos" 
-                className=" text-primary hover:text-gray-50 transition-colors"
-                onClick={(e) => {
-                  e.preventDefault();
-                  handleNavClick("momentos");
-                }}
-              >
-                Momentos
-              </a>
-            </li>
+            
           </ul>
         </div>
         
@@ -138,18 +127,7 @@ const Navbar = () => {
               Galeria
             </a>
           </li>
-          <li>
-            <a 
-              href="#momentos" 
-              className="block text-primary hover:text-gray-50 transition-colors py-2"
-              onClick={(e) => {
-                e.preventDefault();
-                handleNavClick("momentos");
-              }}
-            >
-              Momentos
-            </a>
-          </li>
+          
         </ul>
       </div>
     </header>
