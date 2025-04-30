@@ -41,7 +41,7 @@ const Navbar = () => {
             <li>
               <a 
                 href="#inicio" 
-                className="text-dark hover:text-primary transition-colors"
+                className=" text-primary hover:text-gray-50 transition-colors"
                 onClick={(e) => {
                   e.preventDefault();
                   handleNavClick("inicio");
@@ -53,7 +53,7 @@ const Navbar = () => {
             <li>
               <a 
                 href="#nossa-historia" 
-                className="text-dark hover:text-primary transition-colors"
+                className=" text-primary hover:text-gray-50 transition-colors"
                 onClick={(e) => {
                   e.preventDefault();
                   handleNavClick("nossa-historia");
@@ -65,7 +65,7 @@ const Navbar = () => {
             <li>
               <a 
                 href="#galeria" 
-                className="text-dark hover:text-primary transition-colors"
+                className=" text-primary hover:text-gray-50 transition-colors"
                 onClick={(e) => {
                   e.preventDefault();
                   handleNavClick("galeria");
@@ -77,7 +77,7 @@ const Navbar = () => {
             <li>
               <a 
                 href="#momentos" 
-                className="text-dark hover:text-primary transition-colors"
+                className=" text-primary hover:text-gray-50 transition-colors"
                 onClick={(e) => {
                   e.preventDefault();
                   handleNavClick("momentos");
@@ -91,7 +91,7 @@ const Navbar = () => {
         
         <button 
           id="menu-toggle" 
-          className="md:hidden text-dark hover:text-primary focus:outline-none"
+          className="md:hidden text-primary hover:text-gray-50 focus:outline-none"
           aria-label="Menu"
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
         >
@@ -105,7 +105,7 @@ const Navbar = () => {
           <li>
             <a 
               href="#inicio" 
-              className="block text-dark hover:text-primary transition-colors py-2"
+              className="block text-primary hover:text-gray-50 transition-colors py-2"
               onClick={(e) => {
                 e.preventDefault();
                 handleNavClick("inicio");
@@ -117,7 +117,7 @@ const Navbar = () => {
           <li>
             <a 
               href="#nossa-historia" 
-              className="block text-dark hover:text-primary transition-colors py-2"
+              className="block text-primary hover:text-gray-50 transition-colors py-2"
               onClick={(e) => {
                 e.preventDefault();
                 handleNavClick("nossa-historia");
@@ -129,7 +129,7 @@ const Navbar = () => {
           <li>
             <a 
               href="#galeria" 
-              className="block text-dark hover:text-primary transition-colors py-2"
+              className="block text-primary hover:text-gray-50 transition-colors py-2"
               onClick={(e) => {
                 e.preventDefault();
                 handleNavClick("galeria");
@@ -141,7 +141,7 @@ const Navbar = () => {
           <li>
             <a 
               href="#momentos" 
-              className="block text-dark hover:text-primary transition-colors py-2"
+              className="block text-primary hover:text-gray-50 transition-colors py-2"
               onClick={(e) => {
                 e.preventDefault();
                 handleNavClick("momentos");

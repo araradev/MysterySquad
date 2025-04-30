@@ -1,71 +1,71 @@
 // Relationship information
-export const relationshipStartDate = new Date(2023, 0, 15); // January 15, 2023
-export const coupleNames = "Maria & João";
+export const relationshipStartDate = new Date(2024, 4, 1); // January 15, 2023
+export const coupleNames = "Amanda & André";
 
 // Love messages
 export const loveMessage = "\"Cada momento ao seu lado é um presente que guardo no coração. Te amo mais a cada dia.\"";
 
 export const loveMessageDetail = {
-  content: "\"O amor não se vê com os olhos, mas com o coração. E meu coração vê em você o amor mais puro e verdadeiro que já conheci. Cada dia ao seu lado é um novo motivo para sorrir, para agradecer, para amar ainda mais.\"",
-  signature: "Com todo meu amor, João"
+  content: "\"Baby, o amor não se vê com os olhos, mas com o coração. E meu coração vê em você o amor mais puro e verdadeiro que já conheci. Cada dia ao seu lado é um novo motivo para sorrir, para agradecer, para amar ainda mais.\"",
+  signature: "Com todo meu amor, André (Love)"
 };
 
 // Story timeline
 export const storyTimeline = [
   {
     title: "Como Nos Conhecemos",
-    description: "Foi em uma tarde de verão, naquele café da esquina. Nossos olhares se cruzaram e soubemos imediatamente que algo especial estava acontecendo. Uma conversa despretensiosa que durou horas, e desde então, não nos separamos mais.",
-    date: "15 de Janeiro de 2023",
-    imageUrl: "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=800",
-    imageAlt: "Casal no café"
+    description: "Foi numa noite de são joão, Loló disse que ia levar uma amiga quando chegamos, você estava lá toda gatinha. Chamei pra virar uma dose e você aceitou sem pestanejar, ali você ja me ganhou.",
+    date: "20 de Junho de 2023",
+    imageUrl: "https://www.dropbox.com/scl/fi/ojngk1vx9flzwxkoafovc/saojoao3.jpeg?rlkey=bfookmyej8e5rtqd4mx9vue1f&st=iqi6745g&raw=1",
+    imageAlt: "Nós no São João"
   },
   {
-    title: "Nosso Primeiro Encontro",
-    description: "Escolhemos aquela praia tranquila para nosso primeiro encontro oficial. Caminhamos de mãos dadas pela areia, conversando sobre sonhos e planos. O pôr do sol parecia ter sido feito especialmente para nós, pintando o céu com cores que jamais esqueceremos.",
-    date: "22 de Janeiro de 2023",
-    imageUrl: "https://images.pexels.com/photos/2253879/pexels-photo-2253879.jpeg?auto=compress&cs=tinysrgb&w=800",
+    title: "Nossa Primeira viagem",
+    description: "A galera marcando uma viagem de carnaval e quando você disse que ia eu já fiquei todo serelepe por dentro, mesmo sem estarmos namorando, ficamos juntinhos a viagem toda.",
+    date: "10 de Fevereiro de 2024",
+    imageUrl: "https://www.dropbox.com/scl/fi/anf3n1lf13l5082xnqyk9/natal.jpeg?rlkey=84cotc76qzjc2a338dcerktwi&st=sjyneeku&raw=1",
     imageAlt: "Passeio na praia"
   },
   {
-    title: "Nosso Momento Especial",
-    description: "Aquela viagem à montanha marcou profundamente nossa história. Foi lá, sob um céu estrelado, que prometemos estar sempre juntos, nos bons e maus momentos. A vista do amanhecer foi o cenário perfeito para esse compromisso que fazemos questão de renovar todos os dias.",
-    date: "10 de Abril de 2023",
-    imageUrl: "https://images.pexels.com/photos/2990644/pexels-photo-2990644.jpeg?auto=compress&cs=tinysrgb&w=800",
-    imageAlt: "Contemplando o pôr do sol na montanha"
+    title: "Nosso Primeiro natal namorando",
+    description: "Aquele natal de 2024 marcou profundamente nossa história. Foi lá, que caiu a ficha que estamos juntos e misturados, lá que eu me senti parte da tua vida, da tua família. Que nos bons e maus momentos nós estaremos juntos do nosso jeitinho. A visão do teu sorriso foi o cenário perfeito para esse compromisso que fazemos questão de renovar todos os dias.",
+    date: "25 de Dezembro de 2024",
+    imageUrl: "https://www.dropbox.com/scl/fi/ljtg5q0nkl3xudyu0vf10/WhatsApp-Image-2025-04-29-at-11.33.23.jpeg?rlkey=tqhe9pz2y0if9ltel5uedwpax&st=abc3qah5&raw=1",
+    imageAlt: "Contemplando a nossa união no natal"
   }
 ];
 
 // Photo gallery
 export const photosGallery = [
   {
-    imageUrl: "https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg?auto=compress&cs=tinysrgb&w=800",
-    caption: "Nosso primeiro jantar romântico",
-    date: "Fevereiro 2023"
+    imageUrl: "https://www.dropbox.com/scl/fi/54egcmszmfm8i4q87gayk/anonovo.jpeg?rlkey=7nzqop4htpwc7ids7ew6eh6ut&st=mp3765u8&raw=1",
+    caption: "Nossa primeira virada de ano como um casal.",
+    date: "Janeiro 2025"
   },
   {
-    imageUrl: "https://images.pexels.com/photos/1415131/pexels-photo-1415131.jpeg?auto=compress&cs=tinysrgb&w=800",
-    caption: "Passeio no parque",
-    date: "Março 2023"
+    imageUrl: "https://www.dropbox.com/scl/fi/dcg3h5ao0t7vz5e69nzhd/botecoda21.jpeg?rlkey=s50oqg6hg8w11y7pic6q9ds47&st=doq8b2f2&raw=1",
+    caption: "Casal que se ama toma uma junto ♥",
+    date: "Julho 2024"
   },
   {
-    imageUrl: "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=800",
-    caption: "Férias na praia",
-    date: "Julho 2023"
+    imageUrl: "https://www.dropbox.com/scl/fi/m24x3ogc47ifcxdtbldxd/casademary.jpeg?rlkey=nkui6exubhvu7esq3ses0l6nk&st=o64oge5g&raw=1",
+    caption: "Sendo um casal lindo por aí",
+    date: "Junho 2024"
   },
   {
-    imageUrl: "https://images.pexels.com/photos/3014856/pexels-photo-3014856.jpeg?auto=compress&cs=tinysrgb&w=800",
-    caption: "Nosso aniversário de namoro",
-    date: "Janeiro 2024"
+    imageUrl: "https://www.dropbox.com/scl/fi/z2zbtnz8v48t7jxv5kb34/pordosol.jpeg?rlkey=x8urd7l9z28u3ebhw9wv3m5o9&st=b9yi56iz&raw=1",
+    caption: "Você ofuscando o brilho do pôr do Sol",
+    date: "Dezembro 2024"
   },
   {
-    imageUrl: "https://images.pexels.com/photos/1730877/pexels-photo-1730877.jpeg?auto=compress&cs=tinysrgb&w=800",
-    caption: "Visita à cidade antiga",
-    date: "Abril 2023"
+    imageUrl: "https://www.dropbox.com/scl/fi/3g8xrfd8bcp9qf1c2ohp6/saojoao.jpeg?rlkey=rzmcm1uokarxmxmzpov17j1bv&st=85lq94oy&raw=1",
+    caption: "Uma flor pra uma flor",
+    date: "Junho 2024"
   },
   {
-    imageUrl: "https://images.pexels.com/photos/4148842/pexels-photo-4148842.jpeg?auto=compress&cs=tinysrgb&w=800",
-    caption: "Nosso encontro especial",
-    date: "Setembro 2023"
+    imageUrl: "https://www.dropbox.com/scl/fi/3zuea65epfpwji9ervt1e/showdepablo.jpeg?rlkey=srr0hks60hwl7cjrwf7wqlbuu&st=corbtqnp&raw=1",
+    caption: "Uma flor pra uma flor só que no show de Pablo",
+    date: "Dezembro 2024"
   }
 ];
 

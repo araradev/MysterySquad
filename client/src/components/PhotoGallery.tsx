@@ -63,7 +63,7 @@ const PhotoGallery = () => {
         </div>
         
         {/* Photo carousel container */}
-        <div className="relative w-full max-w-4xl mx-auto h-96 md:h-[500px] rounded-lg shadow-xl overflow-hidden">
+        <div className="relative w-full max-w-4xl mx-auto h-96 md:h-[700px] rounded-lg shadow-xl overflow-hidden">
           {photosGallery.map((photo, index) => (
             <div 
               key={index}

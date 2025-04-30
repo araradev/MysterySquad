@@ -18,7 +18,7 @@ const OurStory = () => {
                         <img 
                           src={story.imageUrl}
                           alt={story.imageAlt} 
-                          className="w-full h-80 object-cover transition-transform duration-300"
+                          className="w-full h-90 object-cover transition-transform duration-300"
                         />
                       </div>
                     </div>
@@ -46,7 +46,7 @@ const OurStory = () => {
                         <img 
                           src={story.imageUrl}
                           alt={story.imageAlt} 
-                          className="w-full h-80 object-cover transition-transform duration-300"
+                          className="w-full h-90 object-cover transition-transform duration-300"
                         />
                       </div>
                     </div>

@@ -4,7 +4,7 @@ import VideoBackground from "@/components/VideoBackground";
 import DateCounter from "@/components/DateCounter";
 import OurStory from "@/components/OurStory";
 import PhotoGallery from "@/components/PhotoGallery";
-import SpecialMoments from "@/components/SpecialMoments";
+// import SpecialMoments from "@/components/SpecialMoments";
 import LoveMessage from "@/components/LoveMessage";
 import Footer from "@/components/Footer";
 import { coupleNames, loveMessage } from "@/data/constants";
@@ -56,7 +56,7 @@ const Home = () => {
 
       <OurStory />
       <PhotoGallery />
-      <SpecialMoments />
+      {/* <SpecialMoments /> */}
       <LoveMessage />
       <Footer />
     </div>
