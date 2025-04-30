@@ -62,7 +62,7 @@ const VideoBackground = () => {
           <source src="/video/couple-background.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
-        <source src="/video/couple-background.mp4" type="video/mp4" />
+        
         
         {/* Video controls */}
         <div className="absolute bottom-4 right-4 z-20 bg-dark bg-opacity-50 rounded-full p-2 flex space-x-2">
